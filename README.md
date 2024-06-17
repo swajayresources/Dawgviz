@@ -1,5 +1,5 @@
-* **Project:** Dog Vision 🐶👁 - Using computer vision to classify dog photos into different breeds.
-* **Goals:** Learn TensorFlow, deep learning and transfer learning, beat the original research paper results (22% accuracy).
+* **Project:** Dawgviz 🐶👁 - Using computer vision to classify dog photos into different breeds.
+* **Goals:** beat the original research paper results (22% accuracy).
 * **Domain:** Computer vision.
 * **Data:** Images of dogs from [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) (120 dog breeds, 20,000+ images).
 * **Problem type:** Multi-class classification (120 different classes).
