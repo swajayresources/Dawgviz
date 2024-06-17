@@ -1,3 +1,5 @@
+# Dawgviz🐶👁
+
 * **Project:** Dawgviz 🐶👁 - Using computer vision to classify dog photos into different breeds.
 * **Goals:** beat the original research paper results (22% accuracy).
 * **Domain:** Computer vision.
